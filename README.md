@@ -100,11 +100,6 @@ Capabilities:
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/anirudhvivekpandit1999/anirudhvivekpandit1999/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 🌐 Connect With Me
 
