@@ -12,7 +12,7 @@ AI ENGINEER PROFILE README
 
 ---
 
-# 👋 Hello, I'm Anirudh
+# 👋 Hey, I'm Anirudh
 
 I build **software that thinks.**
 
