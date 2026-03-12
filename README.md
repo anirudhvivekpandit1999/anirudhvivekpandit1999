@@ -1,10 +1,20 @@
-<!-- =====================================================
-SILICON VALLEY LEVEL GITHUB PROFILE
-===================================================== -->
+<!-- ======================================================
+ ULTRA ADVANCED GITHUB PROFILE README
+====================================================== -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Anirudh%20Pandit&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Solutions%20Engineer&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=ANIRUDH%20PANDIT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Engineer&descAlignY=60"/>
+
+</p>
+
+---
+
+# 🧬 Neural Network
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Neural%20Network/NeuralNetwork.gif" width="600"/>
 
 </p>
 
@@ -12,17 +22,7 @@ SILICON VALLEY LEVEL GITHUB PROFILE
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Systems;Full+Stack+Engineer;Machine+Learning+Engineer;Transformers+%7C+NLP+%7C+Automation;Turning+Data+Into+Decisions"/>
-
-</p>
-
----
-
-# 🎬 Matrix Mode
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="650"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Systems;Full+Stack+Developer;Machine+Learning+Engineer;Transformers+%7C+NLP+%7C+Automation;Turning+Data+Into+Decisions"/>
 
 </p>
 
@@ -30,34 +30,25 @@ SILICON VALLEY LEVEL GITHUB PROFILE
 
 # 👨‍💻 About Me
 
-I build **intelligent systems** that combine:
+I build **systems that think.**
 
-* scalable backend architecture
-* machine learning models
-* production-ready APIs
-* real-world automation
+Most software waits for instructions.
+The systems I build **understand intent, analyze context, and automate decisions.**
 
-Most software reacts.
+Current direction:
 
-The software I build **understands intent and makes decisions.**
+**Full Stack Engineering → AI Solutions Engineering**
 
----
-
-# 🧠 Current Mission
-
-Transitioning from **Full Stack Developer → AI Solutions Engineer**
-
-Focus areas:
+Focus:
 
 * Transformer architectures
-* Natural Language Processing
-* AI-powered product features
-* ML-driven automation systems
-* Intelligent backend APIs
+* NLP intent classification
+* AI powered automation
+* production ML APIs
 
 ---
 
-# ⚙️ Tech Stack
+# 🧠 AI Engineering Toolkit
 
 ### Languages
 
@@ -79,12 +70,28 @@ Focus areas:
 ### AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge\&logo=pytorch)
-![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge\&logo=huggingface)
+![Transformers](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge\&logo=huggingface)
 ![NLP](https://img.shields.io/badge/NLP-black?style=for-the-badge\&logo=openai)
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhvivekpandit1999&repo=PROJECT_NAME&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhvivekpandit1999&repo=PROJECT_NAME_2&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -96,7 +103,7 @@ Focus areas:
 
 ---
 
-# 🔥 3D Contribution Graph
+# 🌆 Contribution Skyline
 
 <p align="center">
 
@@ -106,15 +113,21 @@ Focus areas:
 
 ---
 
-# 📈 Coding Activity (WakaTime)
+# 🛰 Real-Time Coding Metrics
 
-<!-- Replace USERNAME with your wakatime username -->
+<!-- Requires WakaTime account -->
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anirudhvivekpandit1999\&theme=tokyo-night)](https://github.com)
 
 ---
 
@@ -128,17 +141,27 @@ Focus areas:
 
 ---
 
-# 🚀 Visitor Counter
+# 🎮 Developer Mode
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=anirudhvivekpandit1999&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gamer_Mode-ON-black?style=for-the-badge&logo=steam"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anirudhvivekpandit1999&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 
@@ -154,18 +177,12 @@ Focus areas:
 
 ---
 
-# 🧭 Engineering Philosophy
+# 🧭 Philosophy
 
-> “The future of software isn't just automation — it's intelligence.”
+> Software is no longer just tools.
 
-I build systems that move from:
+The next generation of systems will **understand language, analyze context, and make decisions.**
 
-**Input → Understanding → Decision → Action**
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+That’s the direction I’m building toward.
 
 </p>
