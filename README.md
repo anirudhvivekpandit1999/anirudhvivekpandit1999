@@ -1,45 +1,43 @@
-<!-- =========================================================
- ULTRA ADVANCED AI ENGINEER GITHUB PROFILE
-========================================================= -->
+<!-- ===================================================== -->
 
-<!-- AI BRAIN HEADER -->
+<!--           ANIRUDH PANDIT GITHUB PROFILE               -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=ANIRUDH%20PANDIT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Solutions%20Engineer&descAlignY=60"/>
-</p>
+<!-- ===================================================== -->
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems;Full+Stack+Engineer;Machine+Learning+Developer;Transformers+%7C+NLP+%7C+Automation;Turning+Language+Into+Computation"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:0f2027,100:00ffff&text=ANIRUDH%20PANDIT&fontColor=00ffff&fontSize=55&animation=twinkling&desc=Full%20Stack%20Developer%20→%20AI%20Solutions%20Engineer&descAlignY=60"/>
 </p>
 
 ---
 
-# 🧠 Artificial Intelligence Lab
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Systems;Machine+Learning+Engineer;Full+Stack+Developer;Transformers+%7C+NLP+%7C+Automation;Turning+Language+Into+Computation"/>
+</p>
+
+---
+
+# 🧬 Artificial Intelligence Lab
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Neural%20Network/NeuralNetwork.gif" width="650"/>
-
 </p>
 
 ---
 
-# 👨‍💻 About
+# 👨‍💻 About Me
 
-I build **software that understands instructions in natural language and converts them into computation.**
+I build **software that understands language and turns it into computation.**
 
-Current trajectory:
+Current direction:
 
 **Full Stack Developer → AI Solutions Engineer**
 
 Focus areas:
 
-* NLP systems
-* transformer architectures
-* AI automation pipelines
-* intelligent APIs
+* Natural Language Processing
+* Transformer architectures
+* AI automation systems
+* ML powered APIs
 
 ---
 
@@ -50,13 +48,15 @@ Focus areas:
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
+![SQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
 
 ---
 
-### Backend
+### Frameworks
 
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
-![Node](https://img.shields.io/badge/NodeJS-black?style=for-the-badge\&logo=node.js)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge\&logo=node.js)
 
 ---
 
@@ -64,6 +64,7 @@ Focus areas:
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge\&logo=pytorch)
 ![Transformers](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge\&logo=huggingface)
+![NLP](https://img.shields.io/badge/NLP-black?style=for-the-badge\&logo=openai)
 
 ---
 
@@ -71,19 +72,19 @@ Focus areas:
 
 <p align="center">
 
-<a href="https://your-project-url.com">
-<img src="https://img.shields.io/badge/LIVE-AI_PROJECT-00ff99?style=for-the-badge&logo=vercel"/>
+<a href="https://your-live-project.com">
+<img src="https://img.shields.io/badge/AI_PROJECT-LIVE-brightgreen?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://your-project-url.com">
-<img src="https://img.shields.io/badge/LIVE-ML_API-ff4b4b?style=for-the-badge&logo=render"/>
+<a href="https://your-api.com">
+<img src="https://img.shields.io/badge/ML_API-ONLINE-blue?style=for-the-badge&logo=render"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -95,38 +96,32 @@ Focus areas:
 
 ---
 
-# 📊 3D Contribution Cube
+# 📈 Activity Graph
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudhvivekpandit1999&theme=tokyonight"/>
-
-</p>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anirudhvivekpandit1999\&theme=tokyo-night)](https://github.com)
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Skyline
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anirudhvivekpandit1999\&theme=tokyo-night)](https://github.com)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudhvivekpandit1999&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🛰 Coding Activity
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 🎮 Developer Game Mode
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/LEVEL-DEV_BLACK_BELT-black?style=for-the-badge&logo=github"/>
-
+<img src="https://github.com/anirudhvivekpandit1999/anirudhvivekpandit1999/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -135,33 +130,35 @@ Focus areas:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI_ASSISTANT-ONLINE-blue?style=for-the-badge&logo=openai"/>
+<a href="https://your-ai-assistant-url.com">
+<img src="https://img.shields.io/badge/AI_ASSISTANT-CHAT-blue?style=for-the-badge&logo=openai"/>
+</a>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🎮 Play My GitHub Game
 
 <p align="center">
 
-<img src="https://github.com/anirudhvivekpandit1999/anirudhvivekpandit1999/blob/output/github-contribution-grid-snake.svg"/>
+<a href="https://yourusername.github.io/github-snake-game">
+<img src="https://img.shields.io/badge/PLAY-SNAKE_GAME-black?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-# 👁 Visitors
+# 👁 Profile Visitors
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=anirudhvivekpandit1999&style=for-the-badge&color=blue"/>
-
 </p>
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -181,6 +178,12 @@ Focus areas:
 
 > The next generation of software will not just execute instructions.
 
-It will **understand language, analyze context, and make decisions.**
+It will **understand language, reason about context, and automate decisions.**
 
-That’s the future I’m building toward.
+That is the future I’m building toward.
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ffff,50:0f2027,100:000000&section=footer"/>
+</p>
